@@ -25,7 +25,6 @@
 
 ## 1. Super Admin Dashboard | إدارة النظام العامة
 
-<img width="661" height="350" alt="سوبر1" src="https://github.com/user-attachments/assets/ff54fc42-48be-4a81-b62d-d5bb85cae65f" />
 
 The Super Admin module serves as the central governing panel for managing overall platform operations, vendor onboarding, and global communications.
 
